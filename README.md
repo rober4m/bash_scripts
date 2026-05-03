@@ -26,20 +26,6 @@ Then run with:
 
 Collects and displays a full snapshot of your machine's hardware and environment, directly in the terminal and as a saved Markdown report.
 
-**What it reports:**
-
-| Category | Details |
-|---|---|
-| **OS** | Name, kernel version, architecture |
-| **CPU** | Model, cores, threads, frequency |
-| **RAM** | Total, used, free |
-| **Disk** | Total capacity, used space, availability |
-| **GPU** | Graphics card model |
-| **Network** | Hostname, local IP, public IP, DNS |
-| **Uptime** | System uptime and load averages |
-| **Environment** | User, shell, timezone, language |
-| **Tools** | Installed versions of Python, Node, Git, Docker, curl |
-
 **Usage:**
 
 ```bash
